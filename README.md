@@ -7,7 +7,9 @@
 ![{B85B2381-73CC-4689-B0C8-B9082843EAEB}](https://github.com/user-attachments/assets/a57c3ba6-659e-41ef-8eb5-9f727d608806)
 
 <h2>Usage</h2>
+
 1.  Create a/mulitple group(s)
+
 2.  Select all group(s) and click hashtag icon
 
 ![{2A32CBCC-BB1A-4493-A7DF-265543A766CA}](https://github.com/user-attachments/assets/e9138f68-4a89-464d-908d-abb37b9d3f2b)
