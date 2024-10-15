@@ -8,7 +8,6 @@
 
 <h2>Usage</h2>
 1.  Create a/mulitple group(s)
-
 2.  Select all group(s) and click hashtag icon
 
 ![{2A32CBCC-BB1A-4493-A7DF-265543A766CA}](https://github.com/user-attachments/assets/e9138f68-4a89-464d-908d-abb37b9d3f2b)
