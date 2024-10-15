@@ -1,5 +1,5 @@
 # NumByGroup
-*Create 3D Text and custom numbering.*
+*Create 3D number with custom text.*
 <h2>Installation</h2>
 1.  Install with .rbz
 2.  Enable extension in toolbar
