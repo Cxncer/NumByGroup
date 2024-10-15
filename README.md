@@ -10,15 +10,19 @@
 1.  Create a/mulitple group(s)
 
 2.  Select all group(s) and click hashtag icon
+
 ![{2A32CBCC-BB1A-4493-A7DF-265543A766CA}](https://github.com/user-attachments/assets/e9138f68-4a89-464d-908d-abb37b9d3f2b)
 
 3.  Configure
+
 ![{07ADF9B6-CE18-469A-92AF-7696053CEEE5}](https://github.com/user-attachments/assets/7062f8c0-ac98-4539-bd03-0e3a925658e1)
 
 4.  Select all 3D Texts and Click rotate icon
+
 ![{1FA1723E-CD80-41E7-8657-16F8F3A97655}](https://github.com/user-attachments/assets/fafcd7c8-1572-4452-8975-62a54b02d4b4)
 
 5.  Done.
+
 ![{952B0565-884E-47EB-9FA2-DDE7AE05298B}](https://github.com/user-attachments/assets/b3ea527c-b156-4e9b-b02a-850737cec391)
 
 
